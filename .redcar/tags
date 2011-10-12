@@ -1,0 +1,8 @@
+1318382774
+Application	C:/rails_projects/simple_cms/config/application.rb	  class Application 
+ApplicationController	C:/rails_projects/simple_cms/app/controllers/application_controller.rb	class ApplicationController 
+ApplicationHelper	C:/rails_projects/simple_cms/app/helpers/application_helper.rb	module ApplicationHelper
+BrowsingTest	C:/rails_projects/simple_cms/test/performance/browsing_test.rb	class BrowsingTest 
+SimpleCms	C:/rails_projects/simple_cms/config/application.rb	module SimpleCms
+TestCase	C:/rails_projects/simple_cms/test/test_helper.rb	class ActiveSupport::TestCase
+test_homepage	C:/rails_projects/simple_cms/test/performance/browsing_test.rb	  def test_homepage
