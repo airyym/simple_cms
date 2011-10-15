@@ -1,11 +1,13 @@
-1318636742
+1318651971
 AdminUser	/Users/airyym/railsprojects/simple_cms/app/models/admin_user.rb	class AdminUser 
 AlterUsers	/Users/airyym/railsprojects/simple_cms/db/migrate/20111012065044_alter_users.rb	class AlterUsers 
 Application	/Users/airyym/railsprojects/simple_cms/config/application.rb	  class Application 
 ApplicationController	/Users/airyym/railsprojects/simple_cms/app/controllers/application_controller.rb	class ApplicationController 
 ApplicationHelper	/Users/airyym/railsprojects/simple_cms/app/helpers/application_helper.rb	module ApplicationHelper
 BrowsingTest	/Users/airyym/railsprojects/simple_cms/test/performance/browsing_test.rb	class BrowsingTest 
+CreateAdminUsersPagesJoin	/Users/airyym/railsprojects/simple_cms/db/migrate/20111015032753_create_admin_users_pages_join.rb	class CreateAdminUsersPagesJoin 
 CreatePages	/Users/airyym/railsprojects/simple_cms/db/migrate/20111012071803_create_pages.rb	class CreatePages 
+CreateSectionEdits	/Users/airyym/railsprojects/simple_cms/db/migrate/20111015034337_create_section_edits.rb	class CreateSectionEdits 
 CreateSections	/Users/airyym/railsprojects/simple_cms/db/migrate/20111012071855_create_sections.rb	class CreateSections 
 CreateSubjects	/Users/airyym/railsprojects/simple_cms/db/migrate/20111012071733_create_subjects.rb	class CreateSubjects 
 DemoController	/Users/airyym/railsprojects/simple_cms/app/controllers/demo_controller.rb	class DemoController 
@@ -15,6 +17,8 @@ DemoHelperTest	/Users/airyym/railsprojects/simple_cms/test/unit/helpers/demo_hel
 Page	/Users/airyym/railsprojects/simple_cms/app/models/page.rb	class Page 
 PageTest	/Users/airyym/railsprojects/simple_cms/test/unit/page_test.rb	class PageTest 
 Section	/Users/airyym/railsprojects/simple_cms/app/models/section.rb	class Section 
+SectionEdit	/Users/airyym/railsprojects/simple_cms/app/models/section_edit.rb	class SectionEdit 
+SectionEditTest	/Users/airyym/railsprojects/simple_cms/test/unit/section_edit_test.rb	class SectionEditTest 
 SectionTest	/Users/airyym/railsprojects/simple_cms/test/unit/section_test.rb	class SectionTest 
 SimpleCms	/Users/airyym/railsprojects/simple_cms/config/application.rb	module SimpleCms
 Subject	/Users/airyym/railsprojects/simple_cms/app/models/subject.rb	class Subject 
@@ -25,8 +29,11 @@ UserTest	/Users/airyym/railsprojects/simple_cms/test/unit/user_test.rb	class Use
 change	/Users/airyym/railsprojects/simple_cms/db/migrate/20111012071733_create_subjects.rb	  def change
 change	/Users/airyym/railsprojects/simple_cms/db/migrate/20111012071803_create_pages.rb	  def change
 change	/Users/airyym/railsprojects/simple_cms/db/migrate/20111012071855_create_sections.rb	  def change
+change	/Users/airyym/railsprojects/simple_cms/db/migrate/20111015034337_create_section_edits.rb	  def change
 down	/Users/airyym/railsprojects/simple_cms/db/migrate/20111012065044_alter_users.rb	  def down
+down	/Users/airyym/railsprojects/simple_cms/db/migrate/20111015032753_create_admin_users_pages_join.rb	  def down
 hello	/Users/airyym/railsprojects/simple_cms/app/controllers/demo_controller.rb	  def hello
 index	/Users/airyym/railsprojects/simple_cms/app/controllers/demo_controller.rb	  def index
 test_homepage	/Users/airyym/railsprojects/simple_cms/test/performance/browsing_test.rb	  def test_homepage
 up	/Users/airyym/railsprojects/simple_cms/db/migrate/20111012065044_alter_users.rb	  def up
+up	/Users/airyym/railsprojects/simple_cms/db/migrate/20111015032753_create_admin_users_pages_join.rb	  def up
