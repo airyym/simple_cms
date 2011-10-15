@@ -1,4 +1,4 @@
-1318635624
+1318636742
 AdminUser	/Users/airyym/railsprojects/simple_cms/app/models/admin_user.rb	class AdminUser 
 AlterUsers	/Users/airyym/railsprojects/simple_cms/db/migrate/20111012065044_alter_users.rb	class AlterUsers 
 Application	/Users/airyym/railsprojects/simple_cms/config/application.rb	  class Application 
