@@ -1,4 +1,4 @@
-1318651971
+1318860338
 AdminUser	/Users/airyym/railsprojects/simple_cms/app/models/admin_user.rb	class AdminUser 
 AlterUsers	/Users/airyym/railsprojects/simple_cms/db/migrate/20111012065044_alter_users.rb	class AlterUsers 
 Application	/Users/airyym/railsprojects/simple_cms/config/application.rb	  class Application 
@@ -16,13 +16,29 @@ DemoHelper	/Users/airyym/railsprojects/simple_cms/app/helpers/demo_helper.rb	mod
 DemoHelperTest	/Users/airyym/railsprojects/simple_cms/test/unit/helpers/demo_helper_test.rb	class DemoHelperTest 
 Page	/Users/airyym/railsprojects/simple_cms/app/models/page.rb	class Page 
 PageTest	/Users/airyym/railsprojects/simple_cms/test/unit/page_test.rb	class PageTest 
+PagesController	/Users/airyym/railsprojects/simple_cms/app/controllers/pages_controller.rb	class PagesController 
+PagesControllerControllerTest	/Users/airyym/railsprojects/simple_cms/test/functional/pages_controller_controller_test.rb	class PagesControllerControllerTest 
+PagesControllerHelperTest	/Users/airyym/railsprojects/simple_cms/test/unit/helpers/pages_controller_helper_test.rb	class PagesControllerHelperTest 
+PagesControllerTest	/Users/airyym/railsprojects/simple_cms/test/functional/pages_controller_test.rb	class PagesControllerTest 
+PagesHelper	/Users/airyym/railsprojects/simple_cms/app/helpers/pages_helper.rb	module PagesHelper
+PagesHelperTest	/Users/airyym/railsprojects/simple_cms/test/unit/helpers/pages_helper_test.rb	class PagesHelperTest 
 Section	/Users/airyym/railsprojects/simple_cms/app/models/section.rb	class Section 
 SectionEdit	/Users/airyym/railsprojects/simple_cms/app/models/section_edit.rb	class SectionEdit 
 SectionEditTest	/Users/airyym/railsprojects/simple_cms/test/unit/section_edit_test.rb	class SectionEditTest 
 SectionTest	/Users/airyym/railsprojects/simple_cms/test/unit/section_test.rb	class SectionTest 
+SectionsController	/Users/airyym/railsprojects/simple_cms/app/controllers/sections_controller.rb	class SectionsController 
+SectionsControllerControllerTest	/Users/airyym/railsprojects/simple_cms/test/functional/sections_controller_controller_test.rb	class SectionsControllerControllerTest 
+SectionsControllerHelperTest	/Users/airyym/railsprojects/simple_cms/test/unit/helpers/sections_controller_helper_test.rb	class SectionsControllerHelperTest 
+SectionsControllerTest	/Users/airyym/railsprojects/simple_cms/test/functional/sections_controller_test.rb	class SectionsControllerTest 
+SectionsHelper	/Users/airyym/railsprojects/simple_cms/app/helpers/sections_helper.rb	module SectionsHelper
+SectionsHelperTest	/Users/airyym/railsprojects/simple_cms/test/unit/helpers/sections_helper_test.rb	class SectionsHelperTest 
 SimpleCms	/Users/airyym/railsprojects/simple_cms/config/application.rb	module SimpleCms
 Subject	/Users/airyym/railsprojects/simple_cms/app/models/subject.rb	class Subject 
 SubjectTest	/Users/airyym/railsprojects/simple_cms/test/unit/subject_test.rb	class SubjectTest 
+SubjectsController	/Users/airyym/railsprojects/simple_cms/app/controllers/subjects_controller.rb	class SubjectsController 
+SubjectsControllerTest	/Users/airyym/railsprojects/simple_cms/test/functional/subjects_controller_test.rb	class SubjectsControllerTest 
+SubjectsHelper	/Users/airyym/railsprojects/simple_cms/app/helpers/subjects_helper.rb	module SubjectsHelper
+SubjectsHelperTest	/Users/airyym/railsprojects/simple_cms/test/unit/helpers/subjects_helper_test.rb	class SubjectsHelperTest 
 TestCase	/Users/airyym/railsprojects/simple_cms/test/test_helper.rb	class ActiveSupport::TestCase
 User	/Users/airyym/railsprojects/simple_cms/app/models/user.rb	class User 
 UserTest	/Users/airyym/railsprojects/simple_cms/test/unit/user_test.rb	class UserTest 
