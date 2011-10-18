@@ -1,4 +1,6 @@
 SimpleCms::Application.routes.draw do
+  
+  #match 'subjects/list' => 'subjects#list', :as => :list
   # get "demo/index"
 
   # The priority is based upon order of creation:

@@ -1,4 +1,4 @@
-1318860338
+1318947625
 AdminUser	/Users/airyym/railsprojects/simple_cms/app/models/admin_user.rb	class AdminUser 
 AlterUsers	/Users/airyym/railsprojects/simple_cms/db/migrate/20111012065044_alter_users.rb	class AlterUsers 
 Application	/Users/airyym/railsprojects/simple_cms/config/application.rb	  class Application 
@@ -50,6 +50,9 @@ down	/Users/airyym/railsprojects/simple_cms/db/migrate/20111012065044_alter_user
 down	/Users/airyym/railsprojects/simple_cms/db/migrate/20111015032753_create_admin_users_pages_join.rb	  def down
 hello	/Users/airyym/railsprojects/simple_cms/app/controllers/demo_controller.rb	  def hello
 index	/Users/airyym/railsprojects/simple_cms/app/controllers/demo_controller.rb	  def index
+index	/Users/airyym/railsprojects/simple_cms/app/controllers/subjects_controller.rb	  def index
+list	/Users/airyym/railsprojects/simple_cms/app/controllers/subjects_controller.rb	  def list
+show	/Users/airyym/railsprojects/simple_cms/app/controllers/subjects_controller.rb	  def show
 test_homepage	/Users/airyym/railsprojects/simple_cms/test/performance/browsing_test.rb	  def test_homepage
 up	/Users/airyym/railsprojects/simple_cms/db/migrate/20111012065044_alter_users.rb	  def up
 up	/Users/airyym/railsprojects/simple_cms/db/migrate/20111015032753_create_admin_users_pages_join.rb	  def up
