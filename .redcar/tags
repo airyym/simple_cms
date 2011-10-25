@@ -1,4 +1,4 @@
-1319288800
+1319553581
 AdminUser	/Users/airyym/railsprojects/simple_cms/app/models/admin_user.rb	class AdminUser 
 AlterUsers	/Users/airyym/railsprojects/simple_cms/db/migrate/20111012065044_alter_users.rb	class AlterUsers 
 Application	/Users/airyym/railsprojects/simple_cms/config/application.rb	  class Application 
@@ -47,8 +47,11 @@ change	/Users/airyym/railsprojects/simple_cms/db/migrate/20111012071803_create_p
 change	/Users/airyym/railsprojects/simple_cms/db/migrate/20111012071855_create_sections.rb	  def change
 change	/Users/airyym/railsprojects/simple_cms/db/migrate/20111015034337_create_section_edits.rb	  def change
 create	/Users/airyym/railsprojects/simple_cms/app/controllers/subjects_controller.rb	  def create
+delete	/Users/airyym/railsprojects/simple_cms/app/controllers/subjects_controller.rb	  def delete
+destroy	/Users/airyym/railsprojects/simple_cms/app/controllers/subjects_controller.rb	  def destroy
 down	/Users/airyym/railsprojects/simple_cms/db/migrate/20111012065044_alter_users.rb	  def down
 down	/Users/airyym/railsprojects/simple_cms/db/migrate/20111015032753_create_admin_users_pages_join.rb	  def down
+edit	/Users/airyym/railsprojects/simple_cms/app/controllers/subjects_controller.rb	  def edit
 hello	/Users/airyym/railsprojects/simple_cms/app/controllers/demo_controller.rb	  def hello
 index	/Users/airyym/railsprojects/simple_cms/app/controllers/demo_controller.rb	  def index
 index	/Users/airyym/railsprojects/simple_cms/app/controllers/subjects_controller.rb	  def index
@@ -58,3 +61,4 @@ show	/Users/airyym/railsprojects/simple_cms/app/controllers/subjects_controller.
 test_homepage	/Users/airyym/railsprojects/simple_cms/test/performance/browsing_test.rb	  def test_homepage
 up	/Users/airyym/railsprojects/simple_cms/db/migrate/20111012065044_alter_users.rb	  def up
 up	/Users/airyym/railsprojects/simple_cms/db/migrate/20111015032753_create_admin_users_pages_join.rb	  def up
+update	/Users/airyym/railsprojects/simple_cms/app/controllers/subjects_controller.rb	  def update
